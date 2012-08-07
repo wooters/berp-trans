@@ -51,7 +51,7 @@ Understanding System"*, PhD thesis, University of California,
 Berkeley, CA, 1993. Available as ICSI TR-93-068. [PDF](http://www.icsi.berkeley.edu/ftp/pub/techreports/1993/tr-93-068.pdf)
 
 A [YouTube video](http://www.youtube.com/watch?v=d9gDcHBmr3I) shot in
-Nov. 1993 of Chuck Wooters using the BeRP system.
+Nov. 1993 of [Chuck Wooters](http://www.icsi.berkeley.edu/~wooters) using the BeRP system.
 
 ##Misc
 

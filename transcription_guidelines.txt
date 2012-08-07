@@ -1,0 +1,133 @@
+BeRP Transcription Guidelines:
+
+Pauses which are longer than 1 sec get the dot.
+Use only one, even if the pause is ten seconds long.
+
+.
+
+Filled pauses: We only use these four
+ [er]
+ [mm]
+ [uh]
+ [um]
+
+Other noises:
+ [beep]
+ [laughter]
+ [lip_smack]
+ [loud_breath]
+ [noise]
+ [tap]
+ [unintelligible]   (this is in case they say something you can't decipher)
+
+Everything is lower case.
+ i
+ chuck
+
+Restaurant names:
+ Use spaces in them when the name consists of multiple
+	english words, or names in which only one word is foreign:
+
+	meal ticket
+	won thai cuisine
+    gertie's chesapeake bay cafe
+	bette's ocean view diner
+
+Names which are multiple foreign words:
+should not have spaces in them; use dashes instead of spaces:
+
+ 	a-la-carte
+ 	au-coquelet
+
+Exceptions to this rule are names where people refer to
+the restaurant by individual parts of the name (such as below,
+where people called it 'eiffel' or 'tour' as well):
+
+ 	la tour eiffel
+
+Street/city names which have two or more English words: use spaces;
+    shattuck avenue
+	martin luther king
+
+Street/city names which have two or more foreign words: Use __:
+ 	san__pablo
+ 	san__francisco
+
+
+Words which consist of letters of the alphabet:
+Add two underlines "--" between the letters.
+(This is different than MADCOW standard, they would
+say "a m" instead)
+
+ a__m
+ p__m
+
+Genitives, other apostrophe-s, other apostrophes:  DO include the apostrophe:
+ augusta's
+ chuck's
+ that's
+ christopher's-cafe
+ i'd
+ i'll
+ i'm
+ i've
+ how's
+ o'clock
+
+The name of this place:
+ i__c__s__i (If spelled out)
+ icksee (if pronounced as a word)
+
+Contractions:  Use your judgement, but DO use the obvious ones:
+ wanna
+ gotta
+ hafta
+
+THe word "OK", don't use "ok", use:
+ okay
+
+This is a word: 
+ oh
+
+
+Fragments:
+  words which are cut off, either because the speaker stopped
+	in the middle of a word, or because the microphone turned
+	on or off in the middle of a word, are marked with a dash "-":
+	
+	i wa- wanna  eat
+
+	-o you wanna eat?
+
+	Put the dash at the very beginning or end of a word, 
+
+Mispronunciations:  if they mispronounce a word (not just
+	a dialectal variation, but a true mistake).  For example,
+	if they prononce 'understand' as "unshtam" or something weird
+	like that, spell the word with its standard orthography,
+	but put asterisks on either side:
+
+	i don't *understand* 
+
+Angle brackets:  used for verbal repairs, to mean that
+   the "correct" parse of the sentence should ignore these words.
+
+  <i> i want to eat now.
+
+   if there is more than one word in the repair, put
+	angle brackets around EACH word:
+
+	<i> <want> <to> [uh] i wanna eat some chinese food
+
+Parenthesis:  Used for word-fragments, to indicate that the
+	part of the word in parenthesis is the transcribers
+	BEST GUESS as to what the speaker meant to say.
+	(this usually comes up when the speaker started
+	before the mike was turned on).  Thus in the following,	
+	we THINK the speaker meant to say 'this', but the only
+	thing we actually have phonetically in the file is the 's'.
+
+           (thi)-s is for breakfast
+
+Squiggly brackets:  I forget what these mean, I'll remember at some point.
+

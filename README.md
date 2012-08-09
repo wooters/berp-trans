@@ -22,9 +22,11 @@ The BeRP corpus, collected at ICSI, currently contains approximately
 hours of speech. The audio data was recorded with a Sennheiser
 close-talking microphone and was sampled at 16 kHz.
 
-The entire BeRP corpus (~500 megs) can be downloaded from:
+The entire ~500MB BeRP corpus (audio and transcripts) can be downloaded from:
 
 http://www.icsi.berkeley.edu/ftp/pub/speech/wooters/berp.tgz
+
+
 
 ##Transcriptions
 

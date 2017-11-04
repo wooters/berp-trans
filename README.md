@@ -1,10 +1,10 @@
-#The Berkeley Restaurant Project (BeRP) Transcripts
+# The Berkeley Restaurant Project (BeRP) Transcripts
 
 This repository contains the most recent *transcripts* of the audio
 files contained in the Berkeley Restaurant Project (BeRP) corpus. When
 corrections come in, I will update this repository.
 
-##BeRP Background
+## BeRP Background
 
 The Berkeley Restaurant Project (BeRP) was a testbed for a speech
 recognition system developed by the International Computer Science
@@ -28,21 +28,23 @@ http://www.icsi.berkeley.edu/ftp/pub/speech/wooters/berp.tgz
 
 
 
-##Transcriptions
+## Transcriptions
 
 Each line in the *transcript.txt* file contains the transcript for
 a single audio file. The first token on each line is the base name
 of the corresponding audio file. So, for example, the line containing
 the transcript for the audio file *4F_1_0010.wav.gz* looks like this:
 
-> 4F_1_0010 i wanna spend about five dollars
+```
+4F_1_0010 i wanna spend about five dollars
+```
 
 See the file *transcription_guidelines.txt* for the guidelines that
 the human transcribers were supposed to follow when transcribing the
 audio data. If you find any issues, please let us know so that we can
 update the transcripts!
 
-##References
+## References
 
 D. Jurafsky, C. Wooters, G. Tajchman, J. Segal, A. Stolcke, 
 E. Fosler, and N. Morgan, *"The Berkeley Restaurant Project"*, Proceedings
@@ -55,7 +57,7 @@ Berkeley, CA, 1993. Available as ICSI TR-93-068. [PDF](http://www.icsi.berkeley.
 A [YouTube video](http://www.youtube.com/watch?v=d9gDcHBmr3I) shot in
 Nov. 1993 of [Chuck Wooters](http://www.icsi.berkeley.edu/~wooters) using the BeRP system.
 
-##Misc
+## Misc
 
 The file *wordhist.txt* contains a frequency count of all of the words
 in the BeRP transcripts. It is generated with this command:

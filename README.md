@@ -22,10 +22,7 @@ The BeRP corpus, collected at ICSI, currently contains approximately
 hours of speech. The audio data was recorded with a Sennheiser
 close-talking microphone and was sampled at 16 kHz.
 
-The entire ~500MB BeRP corpus (audio and transcripts) can be downloaded from:
-
-http://www.icsi.berkeley.edu/ftp/pub/speech/wooters/berp.tgz
-
+The entire ~443MB BeRP corpus (audio and transcripts) can be downloaded from [here](https://www.dropbox.com/scl/fi/pubahogzscexz7d6zl58x/berp.tgz?rlkey=bdc0zj12a3w62xtdkp0zm5efd&st=4ravrg7k&dl=0).
 
 
 ## Transcriptions
@@ -69,7 +66,7 @@ Understanding System"*, PhD thesis, University of California,
 Berkeley, CA, 1993. Available as ICSI TR-93-068. [PDF](http://www.icsi.berkeley.edu/ftp/pub/techreports/1993/tr-93-068.pdf)
 
 A [YouTube video](http://www.youtube.com/watch?v=d9gDcHBmr3I) shot in
-Nov. 1993 of [Chuck Wooters](http://www.icsi.berkeley.edu/~wooters) using the BeRP system.
+Nov. 1993 of [Chuck Wooters](https://github.com/wooters) using the BeRP system.
 
 ### Using the PCFG in BeRP
 
